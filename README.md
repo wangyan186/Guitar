@@ -3,3 +3,7 @@
 结果(http://yun.baidu.com/s/1gfjTwsj)</br>
 删除(http://yun.baidu.com/s/1hsdfH9i)</br>
 数据库(http://yun.baidu.com/s/1cdrWhK)</br>
+
+
+改正：
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
