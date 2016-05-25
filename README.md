@@ -1,7 +1,4 @@
-
-
-
-改正：</br>
+</br>
 ![image](https://raw.githubusercontent.com/wangyan186/Guitar/master/images/add.png)</br>
 ![image](https://raw.githubusercontent.com/wangyan186/Guitar/master/images/dada.png)</br>
 </br>
